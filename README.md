@@ -9,6 +9,19 @@ The goal of this event is to encourage community members to learn new technologi
 4. Push it to your forked repository.
 5. Create Pull Request and we will take care of the rest.
 
+Project Guidelines :
+The project is all about developing an icecream store application in which a store owner can perform different jobs as well as it will also act as a digital catalogue for customers which will give them different features such as ordering icecream of their choice.
+A shop owner or admin can perform specific operations with the help of application like :
+1) Update daily stock
+2) Review daily stock
+3) Check number of orders placed.
+Though i have tried to provide a good interface to the project 
+
+This is a basic store application which will help you know basic concepts of OOPS as well as make you understand different concepts of DBMS as well.
+
+Hope you will enjoy working on this project.
+Softwares : NetBeans IDE,MySql 
+
 # Github Cheat Sheet:
 
 https://education.github.com/git-cheat-sheet-education.pdf
